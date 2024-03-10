@@ -1,1 +1,3 @@
-print("Git is awesome!")
+sent = input("Please input a sentence:")
+
+print(sent.capitalize())
